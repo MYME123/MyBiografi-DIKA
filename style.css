@@ -1,0 +1,51 @@
+/* Gaya umum */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0b0069;
+}
+/* Custom CSS */
+
+/* Style for the container */
+.container {
+  max-width: 800px; /* Adjust the max-width as needed */
+  margin: auto;
+}
+
+/* Style for the biography section */
+.col-md-8 {
+  background-color: #f8f9fa; /* Light gray background */
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Style for the article section */
+.card {
+  margin-top: 20px;
+}
+
+.card-title {
+  color: #007bff; /* Blue color for the title */
+}
+
+.card-text {
+  line-height: 1.6; /* Adjust line height as needed */
+}
+
+/* Responsive image styling */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px; /* Rounded corners for the image */
+}
+
+/* Adjust spacing as needed */
+.mt-4 {
+  margin-top: 1.5rem;
+}
+
+/* Style for the h1 and h2 headings */
+h1, h2 {
+  color: #343a40; /* Dark color for headings */
+}
+
+/* Additional styling as needed */
